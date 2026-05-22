@@ -90,17 +90,6 @@ nigeria-budget-2026-analysis/
 ├── DATA_DOCUMENTATION.md                  # Sourcing decisions, cleaning methodology, citations
 └── README.md
 ```
-
----
-
-## Team
-
-Group 25 — Data Analytics Programme, Stage 5
-
-- John Olaoluwa Tolufashe — Lead Data Analyst, data cleaning, dataset engineering, documentation
-- Thekem — Lead Visualizer, charts, fact-checking
-- Oluwanifesimi Samuel — Investigative Writer, final report
-
 ---
 
 ## Contact
